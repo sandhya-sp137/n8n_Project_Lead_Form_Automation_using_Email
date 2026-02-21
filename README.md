@@ -75,5 +75,5 @@ Each lead receives a personalized email using dynamic fields:
 
 
 ## 🖼️ Workflow Image
-<img width="1663" height="784" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/46899d96-d7e8-45f3-8491-625a56e1dd3e" />
+<img width="1663" height="784" alt="Screenshot (102)" src="C:\Users\sneha\Pictures\Screenshots\Screenshot 2026-02-21 163344.png" />
 
